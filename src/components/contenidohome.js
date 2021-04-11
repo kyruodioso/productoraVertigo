@@ -113,7 +113,7 @@ const Contenidohome = () => {
           css={css`
           background-color: #828282;
           margin:0.2em;
-          padding:0 0.2em;
+          padding:0.2em;
           color:#FFF;
           border-radius:5px;
           `}
